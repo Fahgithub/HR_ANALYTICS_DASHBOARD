@@ -53,8 +53,8 @@ This HR Analytics notebook can be applied in various scenarios, including:
 ## Outputs
 
 The notebook generates visualizations and descriptive statistics to help understand the dynamics of the HR dataset.
-![alt text](ScreenShot1.png)
-![alt text](ScreenShot2.png)
+![alt text](ScreenShot1.jpeg)
+![alt text](ScreenShot2.jpeg)
 
 ## Important Insights
 
